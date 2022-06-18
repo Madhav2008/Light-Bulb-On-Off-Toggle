@@ -57,7 +57,8 @@ label input:checked~span ion-icon {
 
 .bulb {
     position: absolute;
-    top: 80px;transform: translateX();
+    top: 80px;
+    transform: translateX();
     width: 348px;
     height: 408px;
     pointer-events: none;
