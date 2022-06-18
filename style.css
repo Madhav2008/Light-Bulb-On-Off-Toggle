@@ -33,7 +33,8 @@ label span {
     background: #333;
     border: 6px solid #212121;
     border-radius: 14px;
-    cursor: pointer;transition: ;
+    cursor: pointer;
+    transition: ;
 }
 
 label input:checked~span {
