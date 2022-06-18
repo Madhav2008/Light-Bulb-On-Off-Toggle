@@ -12,4 +12,6 @@ body {
     background: #333;
 }
 
-label {position: relative;}
+label {
+    position: relative;
+}
