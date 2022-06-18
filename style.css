@@ -65,4 +65,6 @@ label input:checked~span ion-icon {
     pointer-events: none;
     background: url(bulb_off.jpg);
     transition: 0.5s;
-}label input:checked~
+}
+
+label input:checked~
