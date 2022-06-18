@@ -36,4 +36,4 @@ label span {
     cursor: pointer;
 }
 
-label input:checked
+label input:checked ~
