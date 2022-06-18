@@ -58,5 +58,5 @@ label input:checked~span ion-icon {
 .bulb {
     position: absolute;
     width: 348px;
-    width: 408px;
+    height: 408px;
 }
