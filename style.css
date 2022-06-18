@@ -37,5 +37,5 @@ label span {
 }
 
 label input:checked~span {
-    left: ;
+    left: 75px;
 }
