@@ -67,4 +67,6 @@ label input:checked~span ion-icon {
     transition: 0.5s;
 }
 
-label input:checked~.bulb {background: url(bulb_off.jpg);}
+label input:checked~.bulb {
+    background: url(bulb_off.jpg);
+}
