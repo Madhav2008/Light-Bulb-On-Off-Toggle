@@ -59,5 +59,6 @@ label input:checked~span ion-icon {
     position: absolute;
     width: 348px;
     height: 408px;
-    pointer-events: none;background: ;
+    pointer-events: none;
+    background: ;
 }
