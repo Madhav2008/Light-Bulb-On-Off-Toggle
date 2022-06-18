@@ -21,5 +21,5 @@ label {
 }
 
 label span {
-    position: absolute;
+    position: absolute;top: 0;
 }
