@@ -20,4 +20,6 @@ label {
     border-radius: 10px;
 }
 
-label span {position: absolute;}
+label span {
+    position: absolute;
+}
