@@ -25,5 +25,6 @@ label span {
     top: 0;
     left: 0;
     width: 75px;
-    height: 75px;background: #333;
+    height: 75px;
+    background: #333;
 }
