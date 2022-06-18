@@ -52,5 +52,5 @@ label span ion-icon {
 
 label input:checked~span ion-icon {
     color: rgba(255, 255, 255, 1);
-    filter: drop-shadow();
+    filter: drop-shadow(0);
 }
