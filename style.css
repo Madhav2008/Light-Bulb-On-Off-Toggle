@@ -50,4 +50,6 @@ label span ion-icon {
     transition: 0.5s;
 }
 
-label input:checked~span ion-icon {color: rgba(255, 255, 255, 0.25);}
+label input:checked~span ion-icon {
+    color: rgba(255, 255, 255, 0.25);
+}
