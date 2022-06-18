@@ -68,5 +68,5 @@ label input:checked~span ion-icon {
 }
 
 label input:checked~.bulb {
-    background: url(bulb_off.jpg);
+    background: url(bulb_on.jpg);
 }
