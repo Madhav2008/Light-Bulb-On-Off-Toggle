@@ -20,7 +20,7 @@ label {
     border-radius: 10px;
 }
 
-label span {
+label input {
     position: absolute;
     top: 0;
     left: 0;
