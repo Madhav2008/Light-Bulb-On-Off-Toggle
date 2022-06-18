@@ -34,7 +34,7 @@ label span {
     border: 6px solid #212121;
     border-radius: 14px;
     cursor: pointer;
-    transition: 0.5;
+    transition: 0.5s;
 }
 
 label input:checked~span {
