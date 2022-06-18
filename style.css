@@ -35,7 +35,8 @@ label span {
     border-radius: 14px;
     cursor: pointer;
     transition: 0.5s;
-    display: flex;justify-content: center;
+    display: flex;
+    justify-content: center;
 }
 
 label input:checked~span {
