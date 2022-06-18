@@ -15,5 +15,5 @@ body {
 label {
     position: relative;
     width: 150px;
-    height: 75px;
+    height: 75px;background: #212121;
 }
